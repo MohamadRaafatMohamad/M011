@@ -32,5 +32,9 @@ public class M1Activity extends AppCompatActivity {
         imageArray[9]=(ImageView)findViewById(R.id.imageView9);
 
         tt.image(0);
+
+
     }
+
+
 }
